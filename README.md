@@ -10,3 +10,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
+
+## License
+2022 XYZ, Inc.
