@@ -12,4 +12,4 @@ Output
 ```
 
 ## License
-2022 XYZ, Inc.
+@2022 XYZ, Inc.
